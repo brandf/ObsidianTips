@@ -1,3 +1,3 @@
-[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)[](How%20Obsidian%20Works%20-%20Details.md)Obsidian is a free and flexible app for your private thoughts.  You can download it [here](https://obsidian.md/download).
+Obsidian is a free and flexible app for your private thoughts.  You can download it [here](https://obsidian.md/download).
 
 ![[ObsidianScreenshot.png]]
