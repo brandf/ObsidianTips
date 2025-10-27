@@ -58,8 +58,8 @@
 		{"id":"7755961b24b0b73b","type":"file","file":"🚧 Projects/ObsidianTips/How I Use Obsidian.md","x":1200,"y":1820,"width":720,"height":320},
 		{"id":"1c35417c8e11a0a3","type":"file","file":"🚧 Projects/ObsidianTips/Using Obsidian with GitHub.md","x":5000,"y":2140,"width":680,"height":500},
 		{"id":"f6499ae12d737923","type":"file","file":"🚧 Projects/ObsidianTips/One Vault to Rule Them All.md","x":5920,"y":2150,"width":680,"height":480},
-		{"id":"88d2a0f191827fc6","type":"file","file":"🚧 Projects/ObsidianTips/Using AI with Obsidian.md","x":6800,"y":2150,"width":680,"height":480},
-		{"id":"ebf1ef3a1776901d","type":"file","file":"🚧 Projects/ObsidianTips/Exporting to the Web.md","x":7680,"y":2150,"width":760,"height":480}
+		{"id":"88d2a0f191827fc6","type":"file","file":"🚧 Projects/ObsidianTips/Using AI with Obsidian.md","x":6800,"y":2150,"width":680,"height":870},
+		{"id":"ebf1ef3a1776901d","type":"file","file":"🚧 Projects/ObsidianTips/Exporting to the Web.md","x":7680,"y":2150,"width":760,"height":870}
 	],
 	"edges":[
 		{
