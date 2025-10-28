@@ -13,32 +13,47 @@ Built with [[AboutObsidian|Obsidian]] and published using [[Exporting to the Web
 New to Obsidian? Begin with these foundational guides:
 
 **📖 Understanding Obsidian**
-- [[AboutObsidian|About Obsidian]] - What makes Obsidian different and why it matters
-- [[Why Obsidian|Why Obsidian?]] - The philosophy behind local-first knowledge management
-- [[How Obsidian Works|How Obsidian Works]] - Core concepts and architecture
-- [[How Obsidian Works - Details|Technical Details]] - Deep dive into links, graph, canvas, and plugins
+- [[📚 Guides/AboutObsidian|About Obsidian]] - What makes Obsidian different and why it matters
+- [[📚 Guides/Why Obsidian|Why Obsidian?]] - The philosophy behind local-first knowledge management
+- [[📚 Guides/How Obsidian Works|How Obsidian Works]] - Core concepts and architecture
+- [[📚 Guides/How Obsidian Works - Details|Technical Details]] - Deep dive into links, graph, canvas, and plugins
 
 **🚀 Getting Started**
-- [[Getting Started with Obsidian|Getting Started Guide]] - Step-by-step setup from download to first notes
+- [[📚 Guides/Getting Started with Obsidian|Getting Started Guide]] - Step-by-step setup from download to first notes
 - Download from [obsidian.md](https://obsidian.md/download)
-- [[How I Use Obsidian|How I Use Obsidian]] - Complete workflow overview and practical tips
-- [[Best Obsidian Plugins|Best Obsidian Plugins]] - Essential plugins to enhance your workflow
+- [[📚 Guides/Obsidian Glossary|Obsidian Glossary]] - Complete reference of terms and concepts
+- [[⚙️ Setup/Migrating to Obsidian|Migrating to Obsidian]] - Import from Notion, Evernote, Roam, and more
+- [[🎯 Workflows/How I Use Obsidian|How I Use Obsidian]] - Complete workflow overview and practical tips
+- [[🔧 Tools/Best Obsidian Plugins|Best Obsidian Plugins]] - Essential plugins to enhance your workflow
 
 ## Workflows & Patterns
 
 Learn proven approaches for organizing and using Obsidian effectively:
 
 **🗂️ Organization Strategies**
-- [[My Personal Vault|My Personal Vault]] - Personal knowledge management setup
-- [[Canvas First Workflow|Canvas First Workflow]] - Visual, spatial organization approach
-- [[One Vault to Rule Them All|Master Vault Pattern]] - Unifying multiple project vaults
+- [[🎯 Workflows/Note-Taking Methodologies|Note-Taking Methodologies]] - Zettelkasten, PARA, LYT, and more
+- [[🎯 Workflows/My Personal Vault|My Personal Vault]] - Personal knowledge management setup
+- [[🎯 Workflows/Daily Notes Workflow|Daily Notes Workflow]] - Build a journaling habit and chronological backbone
+- [[🎯 Workflows/Canvas First Workflow|Canvas First Workflow]] - Visual, spatial organization approach
+- [[🎯 Workflows/One Vault to Rule Them All|Master Vault Pattern]] - Unifying multiple project vaults
 
 **💻 Developer Workflows**
-- [[Using Obsidian with GitHub|Using Obsidian with GitHub]] - Version-controlled documentation
-- [[Exporting to the Web|Exporting to the Web]] - Publishing your knowledge with Quartz
+- [[⚙️ Setup/Using Obsidian with GitHub|Using Obsidian with GitHub]] - Version-controlled documentation
+- [[⚙️ Setup/Exporting to the Web|Exporting to the Web]] - Publishing your knowledge with Quartz
+
+**🔧 Tools & Automation**
+- [[🔧 Tools/Templates and Automation|Templates and Automation]] - Reusable note structures and workflows
+- [[🔧 Tools/Dataview Guide|Dataview Guide]] - Query your notes like a database
+- [[🔧 Tools/Best Obsidian Plugins|Best Obsidian Plugins]] - Essential plugins to enhance your workflow
 
 **🤖 Advanced Integration**
-- [[Using AI with Obsidian|Using AI with Obsidian]] - AI-enhanced note-taking and knowledge management
+- [[🔧 Tools/Using AI with Obsidian|Using AI with Obsidian]] - AI-enhanced note-taking and knowledge management
+- [[⚙️ Setup/Mobile Workflows|Mobile Workflows]] - Using Obsidian on iOS and Android
+- [[⚙️ Setup/Sync Strategies Compared|Sync Strategies Compared]] - Compare sync options for multi-device access
+
+**🔧 Maintenance & Migration**
+- [[⚙️ Setup/Vault Maintenance|Vault Maintenance]] - Keep your vault healthy and organized
+- [[⚙️ Setup/Migrating to Obsidian|Migrating to Obsidian]] - Import from other note-taking apps
 
 ## Core Features
 
