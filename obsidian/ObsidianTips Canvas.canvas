@@ -29,7 +29,7 @@
 		{"id":"f6499ae12d737923","type":"file","file":"🚧 Projects/ObsidianTips/One Vault to Rule Them All.md","x":5920,"y":2150,"width":680,"height":480},
 		{"id":"88d2a0f191827fc6","type":"file","file":"🚧 Projects/ObsidianTips/Using AI with Obsidian.md","x":6800,"y":2150,"width":680,"height":870},
 		{"id":"ebf1ef3a1776901d","type":"file","file":"🚧 Projects/ObsidianTips/Exporting to the Web.md","x":7680,"y":2150,"width":760,"height":870},
-		{"id":"8a6b90341e991ebb","type":"file","file":"🚧 Projects/ObsidianTips/AboutObsidian.md","x":140,"y":-220,"width":740,"height":700},
+		{"id":"8a6b90341e991ebb","type":"file","file":"🚧 Projects/ObsidianTips/AboutObsidian.md","x":0,"y":-220,"width":880,"height":1020},
 		{
 			"id":"2291ee3efedfd1e4",
 			"type":"text",
@@ -59,7 +59,8 @@
 			"y":780,
 			"width":680,
 			"height":700
-		}
+		},
+		{"id":"7836d53b15c1766f","type":"file","file":"🚧 Projects/ObsidianTips/index.md","x":-1240,"y":-220,"width":920,"height":1020}
 	],
 	"edges":[
 		{
@@ -189,11 +190,20 @@
 			"fromSide":"right",
 			"toNode":"ebf1ef3a1776901d",
 			"toSide":"left"
+		},
+		{
+			"id":"f537d3bea0bf2294",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7836d53b15c1766f",
+			"fromSide":"right",
+			"toNode":"8a6b90341e991ebb",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{},
-		"startNode":"8a6b90341e991ebb"
+		"startNode":"7836d53b15c1766f"
 	}
 }
