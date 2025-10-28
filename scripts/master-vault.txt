@@ -1,6 +1,1 @@
 # One project name per line
-
-MegaContext
-NaturalInteractions
-ObsidianTips
-

@@ -20,5 +20,3 @@ Thumbs.db
 
 # Ignore symlinked project directories (if using the master-vault feature)
 obsidian/🚧 Projects/*
-!scripts/master-vault.ps1
-!scripts/master-vault.txt
