@@ -19,6 +19,7 @@ New to Obsidian? Begin with these foundational guides:
 - [[How Obsidian Works - Details|Technical Details]] - Deep dive into links, graph, canvas, and plugins
 
 **🚀 Getting Started**
+- [[Getting Started with Obsidian|Getting Started Guide]] - Step-by-step setup from download to first notes
 - Download from [obsidian.md](https://obsidian.md/download)
 - [[How I Use Obsidian|How I Use Obsidian]] - Complete workflow overview and practical tips
 - [[Best Obsidian Plugins|Best Obsidian Plugins]] - Essential plugins to enhance your workflow
@@ -106,15 +107,7 @@ Most-visited guides and workflows:
 
 ## Philosophy & Principles
 
-Why Obsidian's approach to note-taking is different:
-
-**[[Why Obsidian|Why Obsidian?]]**
-Three core principles guide everything:
-1. **Your thoughts are yours** - [[AboutObsidian#1. Local-First & Private|Local storage and privacy]]
-2. **Your mind is unique** - [[How Obsidian Works - Details#Plugins|Customize to your thinking]]
-3. **Your knowledge should last** - [[How Obsidian Works|Future-proof plain text files]]
-
-These aren't just marketing - they're fundamental to how Obsidian works and why users trust it with their most important notes.
+[[Why Obsidian|Why Obsidian?]] explores the three core principles that guide everything: your thoughts are yours (local-first privacy), your mind is unique (infinite customization), and your knowledge should last (future-proof plain text). These principles are fundamental to how Obsidian works and why users trust it with their most important notes.
 
 ## Contributing & Feedback
 

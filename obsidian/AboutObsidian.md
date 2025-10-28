@@ -8,25 +8,16 @@ You can download it [here](https://obsidian.md/download).
 
 ## What Makes Obsidian Different?
 
-Obsidian is built on three fundamental principles that set it apart from other note-taking tools (see [[Why Obsidian]] for the philosophy):
+Obsidian is built on three fundamental principles: **local-first privacy**, **interconnected knowledge**, and **infinite extensibility**. See [[Why Obsidian|Why Obsidian]] for the complete philosophy and reasoning behind these choices.
 
-### 1. Local-First & Private
+**Local-First & Private**
+Your notes live on your device as plain markdown files, giving you complete privacy, offline access, and no vendor lock-in. This is central to [[How Obsidian Works]] - it's really just a sophisticated markdown editor at its core.
 
-Your notes live on your device as plain markdown files. This means:
-- **Complete privacy** - Your thoughts stay on your computer
-- **Offline access** - No internet required to work
-- **Fast performance** - No server lag or syncing delays
-- **Your data, your control** - No vendor lock-in
+**Interconnected Knowledge**
+Build a web of [[How Obsidian Works - Details#Links|bidirectional links]] between ideas. The [[How Obsidian Works - Details#Graph|graph view]] visualizes these connections, revealing patterns in your thinking.
 
-This approach is central to [[How Obsidian Works]] - it's really just a sophisticated markdown editor at its core.
-
-### 2. Interconnected Knowledge
-
-Obsidian excels at creating relationships between ideas through [[How Obsidian Works - Details#Links|wikilinks]]. Every time you connect two notes, you're building a web of knowledge that mirrors how your brain actually works. The [[How Obsidian Works - Details#Graph|graph view]] visualizes these connections, revealing patterns and relationships you might not have noticed.
-
-### 3. Infinitely Extensible
-
-With [[Best Obsidian Plugins|thousands of community plugins]] and a robust API, you can customize Obsidian to match your exact workflow. Whether you need task management, calendar integration, or [[Using AI with Obsidian|AI-powered assistance]], there's likely a plugin for it (see [[How Obsidian Works - Details#Plugins|plugin ecosystem]]).
+**Infinitely Extensible**
+Customize with [[Best Obsidian Plugins|thousands of community plugins]] and a robust API. From task management to [[Using AI with Obsidian|AI assistance]], extend Obsidian to match your workflow (see [[How Obsidian Works - Details#Plugins|plugin ecosystem]]).
 
 ## Key Features
 
