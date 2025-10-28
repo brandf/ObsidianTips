@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"2a122cd20c71a129","type":"file","file":"🚧 Projects/ObsidianTips/Why Obsidian.md","x":1200,"y":-760,"width":720,"height":780},
-		{"id":"8a6b90341e991ebb","type":"file","file":"🚧 Projects/ObsidianTips/AboutObsidian.md","x":160,"y":-120,"width":740,"height":520},
 		{
 			"id":"1de5f9d5d4c40703",
 			"type":"text",
@@ -10,27 +9,7 @@
 			"x":1200,
 			"y":280,
 			"width":720,
-			"height":600
-		},
-		{
-			"id":"1964473e7b1e3a1e",
-			"type":"text",
-			"text":"![[How Obsidian Works - Details#Graph]]",
-			"styleAttributes":{},
-			"x":3160,
-			"y":880,
-			"width":680,
-			"height":500
-		},
-		{
-			"id":"a416214af63ca184",
-			"type":"text",
-			"text":"![[How Obsidian Works - Details#Canvas]]",
-			"styleAttributes":{},
-			"x":4220,
-			"y":880,
-			"width":680,
-			"height":500
+			"height":850
 		},
 		{
 			"id":"6c86357d963d5d89",
@@ -42,24 +21,45 @@
 			"width":680,
 			"height":500
 		},
+		{"id":"e359f0eccce130c6","type":"file","file":"🚧 Projects/ObsidianTips/Best Obsidian Plugins.md","x":2240,"y":2140,"width":680,"height":600},
+		{"id":"8a7bb1a05a8e950e","type":"file","file":"🚧 Projects/ObsidianTips/Canvas First Workflow.md","x":3160,"y":2140,"width":680,"height":500},
+		{"id":"3f53c041150a1bf0","type":"file","file":"🚧 Projects/ObsidianTips/My Personal Vault.md","x":4080,"y":2140,"width":680,"height":700},
+		{"id":"7755961b24b0b73b","type":"file","file":"🚧 Projects/ObsidianTips/How I Use Obsidian.md","x":1200,"y":1820,"width":720,"height":360},
+		{"id":"1c35417c8e11a0a3","type":"file","file":"🚧 Projects/ObsidianTips/Using Obsidian with GitHub.md","x":5000,"y":2140,"width":680,"height":500},
+		{"id":"f6499ae12d737923","type":"file","file":"🚧 Projects/ObsidianTips/One Vault to Rule Them All.md","x":5920,"y":2150,"width":680,"height":480},
+		{"id":"88d2a0f191827fc6","type":"file","file":"🚧 Projects/ObsidianTips/Using AI with Obsidian.md","x":6800,"y":2150,"width":680,"height":870},
+		{"id":"ebf1ef3a1776901d","type":"file","file":"🚧 Projects/ObsidianTips/Exporting to the Web.md","x":7680,"y":2150,"width":760,"height":870},
+		{"id":"8a6b90341e991ebb","type":"file","file":"🚧 Projects/ObsidianTips/AboutObsidian.md","x":140,"y":-220,"width":740,"height":700},
 		{
 			"id":"2291ee3efedfd1e4",
 			"type":"text",
 			"text":"![[How Obsidian Works - Details#Links]]",
 			"styleAttributes":{},
 			"x":2240,
-			"y":880,
+			"y":800,
 			"width":680,
-			"height":500
+			"height":660
 		},
-		{"id":"e359f0eccce130c6","type":"file","file":"🚧 Projects/ObsidianTips/Best Obsidian Plugins.md","x":2240,"y":2140,"width":680,"height":600},
-		{"id":"8a7bb1a05a8e950e","type":"file","file":"🚧 Projects/ObsidianTips/Canvas First Workflow.md","x":3160,"y":2140,"width":680,"height":500},
-		{"id":"3f53c041150a1bf0","type":"file","file":"🚧 Projects/ObsidianTips/My Personal Vault.md","x":4080,"y":2140,"width":680,"height":700},
-		{"id":"7755961b24b0b73b","type":"file","file":"🚧 Projects/ObsidianTips/How I Use Obsidian.md","x":1200,"y":1820,"width":720,"height":320},
-		{"id":"1c35417c8e11a0a3","type":"file","file":"🚧 Projects/ObsidianTips/Using Obsidian with GitHub.md","x":5000,"y":2140,"width":680,"height":500},
-		{"id":"f6499ae12d737923","type":"file","file":"🚧 Projects/ObsidianTips/One Vault to Rule Them All.md","x":5920,"y":2150,"width":680,"height":480},
-		{"id":"88d2a0f191827fc6","type":"file","file":"🚧 Projects/ObsidianTips/Using AI with Obsidian.md","x":6800,"y":2150,"width":680,"height":870},
-		{"id":"ebf1ef3a1776901d","type":"file","file":"🚧 Projects/ObsidianTips/Exporting to the Web.md","x":7680,"y":2150,"width":760,"height":870}
+		{
+			"id":"1964473e7b1e3a1e",
+			"type":"text",
+			"text":"![[How Obsidian Works - Details#Graph]]",
+			"styleAttributes":{},
+			"x":3160,
+			"y":770,
+			"width":680,
+			"height":720
+		},
+		{
+			"id":"a416214af63ca184",
+			"type":"text",
+			"text":"![[How Obsidian Works - Details#Canvas]]",
+			"styleAttributes":{},
+			"x":4100,
+			"y":780,
+			"width":680,
+			"height":700
+		}
 	],
 	"edges":[
 		{

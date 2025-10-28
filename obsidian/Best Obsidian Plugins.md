@@ -1,12 +1,12 @@
 # Best Obsidian Plugins
 
-Obsidian ships with some core plugins (features), and the editor is extensible to 3rd parties to make their own **Community Plugins**.  This note captures the plugins I find most useful.
+Obsidian ships with some core plugins (features), and the editor is extensible to 3rd parties to make their own [Community Plugins](https://obsidian.md/plugins).  This note captures the plugins I find most useful.
 
-## [Advanced Canvas](obsidian://show-plugin?id=advanced-canvas)
+## [Advanced Canvas](https://obsidian.md/plugins?id=advanced-canvas)
 This plugin enhances the Obsidian canvas with a wide array of features
-## [Calendar](obsidian://show-plugin?id=calendar)
+## [Calendar](https://obsidian.md/plugins?id=calendar)
 Creates a simple Calendar view for visualizing and navigating between your daily notes
-## [Omnisearch](obsidian://show-plugin?id=omnisearch)
+## [Omnisearch](https://obsidian.md/plugins?id=omnisearch)
 Intelligent search for your notes.
-## [Tasks](obsidian://show-plugin?id=obsidian-tasks-plugin)
+## [Tasks](https://obsidian.md/plugins?id=obsidian-tasks-plugin)
 Track tasks across your entire vault.
