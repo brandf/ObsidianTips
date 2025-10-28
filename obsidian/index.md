@@ -8,9 +8,6 @@ This is a comprehensive guide to [[AboutObsidian|Obsidian]] - the powerful, loca
 
 Built with [[AboutObsidian|Obsidian]] and published using [[Exporting to the Web|Quartz]], this digital garden demonstrates the very principles it teaches.
 
-
-[[color  key]]
-
 ## Start Here
 
 New to Obsidian? Begin with these foundational guides:
