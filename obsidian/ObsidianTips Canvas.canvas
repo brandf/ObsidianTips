@@ -1,11 +1,27 @@
 {
 	"nodes":[
 		{"id":"5b717ffeef625b59","type":"group","x":-1840,"y":4000,"width":2800,"height":1720,"label":"Workflows"},
-		{"id":"e359f0eccce130c6","type":"file","file":"🚧 Projects/ObsidianTips/🔧 Tools/Best Obsidian Plugins.md","x":2240,"y":2140,"width":680,"height":620},
 		{"id":"9b58216f8c3df56c","type":"file","file":"🚧 Projects/ObsidianTips/⚙️ Setup/Migrating to Obsidian.md","x":1200,"y":2560,"width":680,"height":400},
+		{
+			"id":"1de5f9d5d4c40703",
+			"type":"text",
+			"text":"![[How Obsidian Works]]",
+			"styleAttributes":{},
+			"x":1200,
+			"y":280,
+			"width":720,
+			"height":850
+		},
+		{"id":"8a6b90341e991ebb","type":"file","file":"🚧 Projects/ObsidianTips/📚 Guides/AboutObsidian.md","x":0,"y":-220,"width":880,"height":1020},
+		{"id":"7836d53b15c1766f","type":"file","file":"🚧 Projects/ObsidianTips/index.md","x":-1240,"y":-220,"width":920,"height":1020},
+		{"id":"2a122cd20c71a129","type":"file","file":"🚧 Projects/ObsidianTips/📚 Guides/Why Obsidian.md","x":1200,"y":-760,"width":720,"height":800},
+		{"id":"7755961b24b0b73b","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/How I Use Obsidian.md","x":-1720,"y":4160,"width":720,"height":380},
+		{"id":"3f53c041150a1bf0","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/My Personal Vault.md","x":-1720,"y":4680,"width":720,"height":910},
+		{"id":"8a7bb1a05a8e950e","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/Canvas First Workflow.md","x":-860,"y":4160,"width":750,"height":700},
+		{"id":"31932390a62403e7","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/Daily Notes Workflow.md","x":-860,"y":4960,"width":750,"height":590},
+		{"id":"e359f0eccce130c6","type":"file","file":"🚧 Projects/ObsidianTips/🔧 Tools/Best Obsidian Plugins.md","x":2240,"y":2140,"width":680,"height":620},
 		{"id":"ba9ac55abd61b0c0","type":"file","file":"🚧 Projects/ObsidianTips/⚙️ Setup/Vault Maintenance.md","x":-580,"y":3130,"width":800,"height":560},
 		{"id":"58a53b4dc932b695","type":"file","file":"🚧 Projects/ObsidianTips/⚙️ Setup/Sync Strategies Compared.md","x":-460,"y":2450,"width":680,"height":400},
-		{"id":"8819d9dc11de6ddc","type":"file","file":"🚧 Projects/ObsidianTips/⚙️ Setup/Mobile Workflows.md","x":440,"y":2315,"width":520,"height":400},
 		{
 			"id":"2291ee3efedfd1e4",
 			"type":"text",
@@ -28,16 +44,6 @@
 		},
 		{"id":"88d2a0f191827fc6","type":"file","file":"🚧 Projects/ObsidianTips/🔧 Tools/Using AI with Obsidian.md","x":3760,"y":2695,"width":680,"height":870},
 		{
-			"id":"1de5f9d5d4c40703",
-			"type":"text",
-			"text":"![[How Obsidian Works]]",
-			"styleAttributes":{},
-			"x":1200,
-			"y":280,
-			"width":720,
-			"height":850
-		},
-		{
 			"id":"a416214af63ca184",
 			"type":"text",
 			"text":"![[How Obsidian Works - Details#Canvas]]",
@@ -47,8 +53,6 @@
 			"width":680,
 			"height":700
 		},
-		{"id":"8a6b90341e991ebb","type":"file","file":"🚧 Projects/ObsidianTips/📚 Guides/AboutObsidian.md","x":0,"y":-220,"width":880,"height":1020},
-		{"id":"7836d53b15c1766f","type":"file","file":"🚧 Projects/ObsidianTips/index.md","x":-1240,"y":-220,"width":920,"height":1020},
 		{
 			"id":"6c86357d963d5d89",
 			"type":"text",
@@ -60,12 +64,8 @@
 			"height":500
 		},
 		{"id":"ebf1ef3a1776901d","type":"file","file":"🚧 Projects/ObsidianTips/⚙️ Setup/Exporting to the Web.md","x":4960,"y":3620,"width":760,"height":870},
-		{"id":"2a122cd20c71a129","type":"file","file":"🚧 Projects/ObsidianTips/📚 Guides/Why Obsidian.md","x":1200,"y":-760,"width":720,"height":800},
-		{"id":"7755961b24b0b73b","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/How I Use Obsidian.md","x":-1720,"y":4160,"width":720,"height":380},
-		{"id":"3f53c041150a1bf0","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/My Personal Vault.md","x":-1720,"y":4680,"width":720,"height":910},
-		{"id":"8a7bb1a05a8e950e","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/Canvas First Workflow.md","x":-860,"y":4160,"width":750,"height":700},
-		{"id":"31932390a62403e7","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/Daily Notes Workflow.md","x":-860,"y":4960,"width":750,"height":590},
 		{"id":"f6499ae12d737923","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/One Vault to Rule Them All.md","x":60,"y":4160,"width":760,"height":650},
+		{"id":"8819d9dc11de6ddc","type":"file","file":"🚧 Projects/ObsidianTips/⚙️ Setup/Mobile Workflows.md","x":440,"y":2315,"width":520,"height":400},
 		{"id":"77b6eb0e32bc322d","type":"file","file":"🚧 Projects/ObsidianTips/🎯 Workflows/Note-Taking Methodologies.md","x":60,"y":4960,"width":640,"height":530},
 		{"id":"1c35417c8e11a0a3","type":"file","file":"🚧 Projects/ObsidianTips/⚙️ Setup/Using Obsidian with GitHub.md","x":420,"y":3010,"width":780,"height":680}
 	],
